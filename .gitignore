@@ -1,0 +1,18 @@
+# dataset related files
+/dataset
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.json
+
+
+# python
+.venv
+.ipynb_checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+node_modules
